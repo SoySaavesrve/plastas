@@ -321,6 +321,7 @@
       "cooked_beef": "2025-03-12 02:31:08 +0000",
       "baked_potato": "2025-03-13 00:29:05 +0000",
       "apple": "2025-03-12 01:13:53 +0000",
+      "mutton": "2025-03-14 20:16:31 +0000",
       "bread": "2025-03-12 01:15:43 +0000",
       "golden_carrot": "2025-03-12 02:31:00 +0000",
       "carrot": "2025-03-14 19:59:10 +0000"
@@ -357,6 +358,7 @@
       "minecraft:sunflower_plains": "2025-03-12 01:33:31 +0000",
       "minecraft:river": "2025-03-13 00:47:05 +0000",
       "minecraft:stony_shore": "2025-03-12 01:41:26 +0000",
+      "minecraft:forest": "2025-03-14 20:14:52 +0000",
       "minecraft:ocean": "2025-03-12 02:32:09 +0000",
       "minecraft:frozen_peaks": "2025-03-12 01:33:01 +0000",
       "minecraft:plains": "2025-03-12 01:16:38 +0000"
@@ -1387,6 +1389,30 @@
   "dungeons_arise:find_coliseum": {
     "criteria": {
       "location0": "2025-03-14 20:03:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-03-14 20:19:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-03-14 20:19:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-03-14 20:19:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-03-14 20:19:57 +0000"
     },
     "done": true
   },
