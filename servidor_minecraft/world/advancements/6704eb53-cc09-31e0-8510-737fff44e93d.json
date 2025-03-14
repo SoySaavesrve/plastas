@@ -322,7 +322,8 @@
       "baked_potato": "2025-03-13 00:29:05 +0000",
       "apple": "2025-03-12 01:13:53 +0000",
       "bread": "2025-03-12 01:15:43 +0000",
-      "golden_carrot": "2025-03-12 02:31:00 +0000"
+      "golden_carrot": "2025-03-12 02:31:00 +0000",
+      "carrot": "2025-03-14 19:59:10 +0000"
     },
     "done": false
   },
@@ -1332,6 +1333,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-03-14 19:42:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-03-14 19:59:05 +0000"
     },
     "done": true
   },
