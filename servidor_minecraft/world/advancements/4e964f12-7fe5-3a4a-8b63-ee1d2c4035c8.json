@@ -2286,6 +2286,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-15 18:53:54 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/pine_slab": {
     "criteria": {
       "has_planks": "2025-03-15 18:34:08 +0000"
@@ -2313,6 +2319,12 @@
   "doppelgangermod:the_amulet": {
     "criteria": {
       "the_amulet_0": "2025-03-15 18:10:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-15 18:53:54 +0000"
     },
     "done": true
   },
