@@ -2209,6 +2209,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-03-15 19:28:49 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/pine_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-15 18:34:08 +0000"
@@ -2326,6 +2332,12 @@
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-03-15 19:18:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-03-15 19:22:46 +0000"
     },
     "done": true
   },
