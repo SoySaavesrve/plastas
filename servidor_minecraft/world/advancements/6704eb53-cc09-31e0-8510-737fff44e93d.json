@@ -1909,6 +1909,12 @@
     },
     "done": true
   },
+  "doppelgangermod:the_doppelganger": {
+    "criteria": {
+      "the_doppelganger_0": "2025-03-15 01:59:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-03-15 01:52:22 +0000"
@@ -1936,6 +1942,12 @@
   "born_in_chaos_v1:arachnophobes_nightmare": {
     "criteria": {
       "arachnophobes_nightmare_0": "2025-03-15 01:46:32 +0000"
+    },
+    "done": true
+  },
+  "doppelgangermod:doppelganger_hunter": {
+    "criteria": {
+      "doppelganger_hunter_0": "2025-03-15 02:00:21 +0000"
     },
     "done": true
   },

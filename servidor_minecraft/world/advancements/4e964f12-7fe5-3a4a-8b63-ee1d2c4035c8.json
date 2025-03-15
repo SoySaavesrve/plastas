@@ -1143,7 +1143,8 @@
       "minecraft:spider": "2025-03-12 02:04:57 +0000",
       "minecraft:creeper": "2025-03-12 01:35:56 +0000",
       "minecraft:slime": "2025-03-15 01:41:13 +0000",
-      "minecraft:zombie": "2025-03-12 01:34:42 +0000"
+      "minecraft:zombie": "2025-03-12 01:34:42 +0000",
+      "minecraft:zombie_villager": "2025-03-15 01:52:58 +0000"
     },
     "done": false
   },
@@ -1861,6 +1862,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-03-15 02:00:30 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
       "dark_metallurgy_0": "2025-03-15 01:40:30 +0000"
@@ -1870,6 +1877,12 @@
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2025-03-15 01:29:38 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-03-15 02:01:31 +0000"
     },
     "done": true
   },
