@@ -371,6 +371,7 @@
       "cooked_porkchop": "2025-03-12 02:03:28 +0000",
       "cooked_mutton": "2025-03-12 01:42:52 +0000",
       "cooked_beef": "2025-03-12 01:11:21 +0000",
+      "baked_potato": "2025-03-15 01:16:36 +0000",
       "bread": "2025-03-12 01:15:45 +0000",
       "cooked_chicken": "2025-03-12 01:52:09 +0000",
       "cooked_salmon": "2025-03-12 02:44:52 +0000",
@@ -1778,24 +1779,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-03-12 02:45:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-03-12 02:45:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-03-12 02:45:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-03-12 02:42:11 +0000"
@@ -1808,9 +1791,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
+  "minecraft:recipes/redstone/slime_block": {
     "criteria": {
-      "has_beetroot": "2025-03-12 02:45:29 +0000"
+      "has_slime_ball": "2025-03-12 02:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-03-12 02:45:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-03-12 02:45:27 +0000"
     },
     "done": true
   },
@@ -1820,15 +1815,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/slime_block": {
+  "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
-      "has_slime_ball": "2025-03-12 02:42:11 +0000"
+      "has_beetroot": "2025-03-12 02:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-03-12 02:45:29 +0000"
     },
     "done": true
   },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-03-12 02:45:35 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-03-15 01:16:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-03-15 01:17:35 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-03-15 01:16:40 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-03-15 01:17:35 +0000"
     },
     "done": true
   },
