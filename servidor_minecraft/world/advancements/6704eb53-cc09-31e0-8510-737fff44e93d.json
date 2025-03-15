@@ -363,8 +363,10 @@
       "minecraft:cherry_grove": "2025-03-14 20:31:41 +0000",
       "minecraft:river": "2025-03-13 00:47:05 +0000",
       "minecraft:stony_shore": "2025-03-12 01:41:26 +0000",
+      "minecraft:grove": "2025-03-15 18:25:25 +0000",
       "minecraft:forest": "2025-03-14 20:14:52 +0000",
       "minecraft:ocean": "2025-03-12 02:32:09 +0000",
+      "minecraft:flower_forest": "2025-03-15 18:27:52 +0000",
       "minecraft:frozen_peaks": "2025-03-12 01:33:01 +0000",
       "minecraft:plains": "2025-03-12 01:16:38 +0000"
     },
@@ -2099,6 +2101,18 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-03-15 17:53:26 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/pine_planks": {
+    "criteria": {
+      "has_logs": "2025-03-15 18:25:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/pine_wood": {
+    "criteria": {
+      "has_log": "2025-03-15 18:25:55 +0000"
     },
     "done": true
   },
