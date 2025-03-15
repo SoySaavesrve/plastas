@@ -2104,6 +2104,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-03-15 18:10:05 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/pine_planks": {
     "criteria": {
       "has_logs": "2025-03-15 18:25:55 +0000"
@@ -2116,9 +2122,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
-      "has_sunflower": "2025-03-15 18:10:05 +0000"
+      "has_gold_backpack": "2025-03-15 18:34:56 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-03-15 18:29:48 +0000"
+    },
+    "done": true
+  },
+  "doppelgangermod:the_amulet": {
+    "criteria": {
+      "the_amulet_0": "2025-03-15 18:32:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-15 18:31:57 +0000"
     },
     "done": true
   },

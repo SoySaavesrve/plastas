@@ -893,6 +893,7 @@
       "minecraft:river": "2025-03-15 01:43:18 +0000",
       "minecraft:stony_shore": "2025-03-12 01:41:26 +0000",
       "minecraft:ocean": "2025-03-12 02:31:27 +0000",
+      "minecraft:flower_forest": "2025-03-15 18:27:29 +0000",
       "minecraft:frozen_peaks": "2025-03-12 01:32:51 +0000",
       "minecraft:plains": "2025-03-12 01:16:57 +0000"
     },
@@ -2153,15 +2154,99 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-03-15 18:34:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-03-15 18:15:51 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/pine_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-15 18:34:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/pine_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-15 18:34:08 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/pine_planks": {
     "criteria": {
       "has_logs": "2025-03-15 18:23:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-15 18:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-15 18:33:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/pine_button": {
+    "criteria": {
+      "has_planks": "2025-03-15 18:34:08 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-03-15 18:28:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/pine_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-15 18:34:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-15 18:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-15 18:33:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/pine_sign": {
+    "criteria": {
+      "has_planks": "2025-03-15 18:34:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-15 18:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-15 18:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-15 18:33:58 +0000"
     },
     "done": true
   },
@@ -2174,6 +2259,54 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-03-15 18:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-15 18:29:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/pine_door": {
+    "criteria": {
+      "has_planks": "2025-03-15 18:34:08 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-03-15 18:27:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/pine_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-15 18:34:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/pine_slab": {
+    "criteria": {
+      "has_planks": "2025-03-15 18:34:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/pine_fence": {
+    "criteria": {
+      "has_planks": "2025-03-15 18:34:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-03-15 18:28:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-15 18:33:59 +0000"
     },
     "done": true
   },
