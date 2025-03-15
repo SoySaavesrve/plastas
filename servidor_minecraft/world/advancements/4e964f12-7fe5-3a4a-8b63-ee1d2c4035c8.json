@@ -1148,6 +1148,7 @@
       "minecraft:witch": "2025-03-15 17:55:08 +0000",
       "minecraft:enderman": "2025-03-15 02:09:01 +0000",
       "minecraft:zombie": "2025-03-12 01:34:42 +0000",
+      "minecraft:drowned": "2025-03-15 19:08:35 +0000",
       "minecraft:zombie_villager": "2025-03-15 01:52:58 +0000"
     },
     "done": false
@@ -2319,6 +2320,18 @@
   "doppelgangermod:the_amulet": {
     "criteria": {
       "the_amulet_0": "2025-03-15 18:10:29 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-03-15 19:18:22 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2025-03-15 19:07:56 +0000"
     },
     "done": true
   },
